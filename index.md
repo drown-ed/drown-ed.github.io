@@ -9,7 +9,7 @@ sitemap:
 ---
 <p class="describe-text">안녕하세요.</p>
 <br>
-This is the index page, describe yourself in few sentences here. Perhaps talk about what you do for living and what you do in your free time. Maybe even leave an [email@address.com](#) or a link to your [resume](#).
+글자 폰트를 뭐로 할지 고민중입니다.
 
 Pudhina Fresh is free and open-source. Checkout [Pudhina Fresh](https://github.com/ritijjain/pudhina-fresh).
 
